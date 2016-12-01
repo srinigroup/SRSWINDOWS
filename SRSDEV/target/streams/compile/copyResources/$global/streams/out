@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\application-logger.xml,D:\SRS PROJECT IN WINDOWS\SRSDEV\target\scala-2.10\classes\application-logger.xml)[0m
+[0m[[0mdebug[0m] [0m	(D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\application.conf,D:\SRS PROJECT IN WINDOWS\SRSDEV\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\evolutions,D:\SRS PROJECT IN WINDOWS\SRSDEV\target\scala-2.10\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\routes,D:\SRS PROJECT IN WINDOWS\SRSDEV\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\evolutions\default,D:\SRS PROJECT IN WINDOWS\SRSDEV\target\scala-2.10\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\evolutions\default\1.sql,D:\SRS PROJECT IN WINDOWS\SRSDEV\target\scala-2.10\classes\evolutions\default\1.sql)[0m

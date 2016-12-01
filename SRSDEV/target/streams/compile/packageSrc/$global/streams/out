@@ -1,0 +1,145 @@
+[0m[[0minfo[0m] [0mPackaging D:\SRS PROJECT IN WINDOWS\SRSDEV\target\scala-2.10\srsdev_2.10-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	controllers\AccountHolders.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\AccountHolders.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Employees.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Employees.java[0m
+[0m[[0mdebug[0m] [0m	models\Invoice.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Invoice.java[0m
+[0m[[0mdebug[0m] [0m	controllers\SalesHeads.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\SalesHeads.java[0m
+[0m[[0mdebug[0m] [0m	models\ShiftSale.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\ShiftSale.java[0m
+[0m[[0mdebug[0m] [0m	controllers\InvoiceInventory.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\InvoiceInventory.java[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\routes[0m
+[0m[[0mdebug[0m] [0m	models\Employee.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Employee.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Reports.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Reports.java[0m
+[0m[[0mdebug[0m] [0m	models\Supplier.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Supplier.java[0m
+[0m[[0mdebug[0m] [0m	evolutions\default\1.sql[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\evolutions\default\1.sql[0m
+[0m[[0mdebug[0m] [0m	models\ShiftPaymentTender.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\ShiftPaymentTender.java[0m
+[0m[[0mdebug[0m] [0m	errors\Global.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\errors\Global.java[0m
+[0m[[0mdebug[0m] [0m	models\Payroll.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Payroll.java[0m
+[0m[[0mdebug[0m] [0m	models\Shift.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Shift.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Terminals.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Terminals.java[0m
+[0m[[0mdebug[0m] [0m	models\User.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\User.java[0m
+[0m[[0mdebug[0m] [0m	controllers\DailyReconciliations.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\DailyReconciliations.java[0m
+[0m[[0mdebug[0m] [0m	models\TerminalHead.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\TerminalHead.java[0m
+[0m[[0mdebug[0m] [0m	models\BankAccountInfo.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\BankAccountInfo.java[0m
+[0m[[0mdebug[0m] [0m	models\Timesheet.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Timesheet.java[0m
+[0m[[0mdebug[0m] [0m	controllers\ManagementReports.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\ManagementReports.java[0m
+[0m[[0mdebug[0m] [0m	evolutions[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\evolutions[0m
+[0m[[0mdebug[0m] [0m	controllers\Stores.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Stores.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Shifts.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Shifts.java[0m
+[0m[[0mdebug[0m] [0m	models\MiscExpense.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\MiscExpense.java[0m
+[0m[[0mdebug[0m] [0m	models\PaymentTender.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\PaymentTender.java[0m
+[0m[[0mdebug[0m] [0m	models\ContactInfo.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\ContactInfo.java[0m
+[0m[[0mdebug[0m] [0m	models\Terminal.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Terminal.java[0m
+[0m[[0mdebug[0m] [0m	controllers\MediaTenders.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\MediaTenders.java[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\application.conf[0m
+[0m[[0mdebug[0m] [0m	controllers\Companies.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Companies.java[0m
+[0m[[0mdebug[0m] [0m	controllers\TotalSalesHeads.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\TotalSalesHeads.java[0m
+[0m[[0mdebug[0m] [0m	models\HeadOfficeTimeSheet.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\HeadOfficeTimeSheet.java[0m
+[0m[[0mdebug[0m] [0m	models\SalesHead.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\SalesHead.java[0m
+[0m[[0mdebug[0m] [0m	models\MediaTender.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\MediaTender.java[0m
+[0m[[0mdebug[0m] [0m	models\HoForm.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\HoForm.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Timesheets.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Timesheets.java[0m
+[0m[[0mdebug[0m] [0m	models\DailyReconciliation.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\DailyReconciliation.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Users.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Users.java[0m
+[0m[[0mdebug[0m] [0m	models\Company.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Company.java[0m
+[0m[[0mdebug[0m] [0m	models\TotalSettlementSale.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\TotalSettlementSale.java[0m
+[0m[[0mdebug[0m] [0m	evolutions\default[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\evolutions\default[0m
+[0m[[0mdebug[0m] [0m	controllers\MonthlyReports.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\MonthlyReports.java[0m
+[0m[[0mdebug[0m] [0m	controllers\ExpenseHeads.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\ExpenseHeads.java[0m
+[0m[[0mdebug[0m] [0m	models\TotalSalesHead.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\TotalSalesHead.java[0m
+[0m[[0mdebug[0m] [0m	models\Role.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Role.java[0m
+[0m[[0mdebug[0m] [0m	models\Report.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Report.java[0m
+[0m[[0mdebug[0m] [0m	models\ExpenseHead.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\ExpenseHead.java[0m
+[0m[[0mdebug[0m] [0m	controllers\PageAccess.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\PageAccess.java[0m
+[0m[[0mdebug[0m] [0m	models\Payout.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Payout.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Products.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Products.java[0m
+[0m[[0mdebug[0m] [0m	controllers\DailySalesReconciliations.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\DailySalesReconciliations.java[0m
+[0m[[0mdebug[0m] [0m	models\MonthlyReport.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\MonthlyReport.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Suppliers.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Suppliers.java[0m
+[0m[[0mdebug[0m] [0m	models\BankDeposit.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\BankDeposit.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Secured.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Secured.java[0m
+[0m[[0mdebug[0m] [0m	controllers\HoForms.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\HoForms.java[0m
+[0m[[0mdebug[0m] [0m	controllers\PaymentTenders.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\PaymentTenders.java[0m
+[0m[[0mdebug[0m] [0m	models\DailySalesReconciliation.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\DailySalesReconciliation.java[0m
+[0m[[0mdebug[0m] [0m	models\Store.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Store.java[0m
+[0m[[0mdebug[0m] [0m	controllers\TerminalHeads.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\TerminalHeads.java[0m
+[0m[[0mdebug[0m] [0m	models\Address.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Address.java[0m
+[0m[[0mdebug[0m] [0m	models\ShiftMediaCollected.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\ShiftMediaCollected.java[0m
+[0m[[0mdebug[0m] [0m	models\AccountHolder.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\AccountHolder.java[0m
+[0m[[0mdebug[0m] [0m	controllers\Application.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\controllers\Application.java[0m
+[0m[[0mdebug[0m] [0m	models\Login1.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Login1.java[0m
+[0m[[0mdebug[0m] [0m	models\ShiftVariance.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\ShiftVariance.java[0m
+[0m[[0mdebug[0m] [0m	application-logger.xml[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\conf\application-logger.xml[0m
+[0m[[0mdebug[0m] [0m	models\Product.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\Product.java[0m
+[0m[[0mdebug[0m] [0m	models\SupplierMapping.java[0m
+[0m[[0mdebug[0m] [0m	  D:\SRS PROJECT IN WINDOWS\SRSDEV\app\models\SupplierMapping.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
